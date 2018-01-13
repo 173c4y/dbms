@@ -1,0 +1,7 @@
+lol Price Status ID
+1 1.0 a 1
+111 5.0 a 2
+11111 2.0 na 3
+wa 5.0 a 10
+a 10.0 a 122
+p 10.5 na 234

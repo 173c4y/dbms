@@ -1,5 +1,5 @@
 arr=[]
-fp = open(r"C:\\Users\\riyas\\Desktop\\db_q1.txt.txt","r")
+fp = open("db_q1.txt.txt","r")
 
 lines = fp.readlines()
 print(lines)
